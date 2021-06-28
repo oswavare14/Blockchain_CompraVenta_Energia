@@ -90,7 +90,7 @@ function App() {
   return (
     <>
 
-      <div class="bg-gradient-to-tl from-blue-800 to-blue-500 text-white font-mono flex flex-col min-h-screen">
+      <div class="bg-gradient-to-tl from-white to-gray-200 text-white font-mono flex flex-col min-h-screen">
         <div class="flex flex-row-reverse flex-wrap m-auto">
 
 
